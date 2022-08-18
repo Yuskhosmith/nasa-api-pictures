@@ -4,6 +4,8 @@ This project collects data from NASA's APOD API (Astronomy Picture of the Day). 
 
 You can add to Favorite and still have access to those whenever you visit the page on the same device as it uses Local Storage to store these data.
 
+[Live Site](https://yuskhosmith.github.io/nasa-api-pictures/)
+
 ## .New 🌚
 - [x] Imperative vs Declarative Programmin
     - Imperative Programming is exactly what I have done here, writing my script for every move the user might make, making sure everything is ordered and step by step. The problem with this is that, the more the complexity, the difficult it becomes to see relationships.
