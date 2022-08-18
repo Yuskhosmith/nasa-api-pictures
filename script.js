@@ -101,6 +101,10 @@ async function getNasaPictures() {
         updateDOM('results');
     } catch (error) {
         // Catch Error Here
+        const message = document.createElement('span');
+        message.classList.add('y')
+        message.textContent = `Please Try Again Later or Now 😂`
+        loader.appendChild(message);
     }
 }
 
